@@ -1,0 +1,20 @@
+{
+  "name": "build-a-personal-profile-app",
+  "version": "1.0.0",
+  "description": "A simple personal profile app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "keywords": [
+    "personal",
+    "profile",
+    "express"
+  ],
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs"
+}
